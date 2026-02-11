@@ -1,0 +1,215 @@
+Tracking Number,Carrier Name,Service Level,Zones,Weight (lbs),Dimensions (in),Charge Type,Charge,Pickup Zipcode,Dropoff Zipcode,Date of Delivery
+1F1234567890123458,Delhivery,Ground,Zone 6,11,12x12x8,Adult Signature Required,11.25,10005,90001,2024-04-22
+1F1234567890123451,DTDC,Ground,Zone 4,5,12x12x8,Additional Tax,5.5,60606,90210,2023-08-14
+1F1234567890123456,Blue Dart,2Day,Zone 3,12,12x12x8,Adjustment,7.5,60601,90210,2024-01-06
+1F1234567890123459,Delhivery,Ground,Zone 6,11,12x12x8,Adult Signature Required,11.25,10005,90001,2024-04-22
+1F1234567890123454,FedEx,Next Day Air,Zone 1,7,12x12x8,Addl. Handling Weight,9,10005,90002,2023-11-26
+1F1234567890123450,Delhivery,Next Day Air,Zone 3,8,12x12x8,Fuel Surcharge,10,90001,60606,2023-07-09
+1F1234567890123455,Gati,Ground,Zone 2,6,12x12x8,Address Correction,6.25,90002,60601,2023-12-02
+1F1234567890123452,Ekart Logistics,2Day,Zone 5,10,12x12x8,Adjustment,7.25,90210,30303,2023-09-16
+1F1234567890123457,DHL,Ground,Zone 4,9,12x12x8,Admin. Fees,12.75,90210,30303,2024-02-11
+1F1234567890123453,Ecom Express,Ground,Zone 6,4,12x12x8,Additional Vat Charge,8.75,30303,10005,2023-10-22
+1F1234567890126001,DTDC,Ground,Zone 4,6,10x10x6,Additional Tax,8.25,60601,10005,2023-11-21
+1F1234567890126002,Ekart Logistics,Next Day Air,Zone 5,9,12x12x8,Additional weight charge,11.5,10005,90210,2023-09-16
+1F1234567890126003,FedEx,Ground,Zone 6,5,10x10x6,Address Correction,7.75,90210,60606,2023-07-14
+1F1234567890126004,Gati,2Day,Zone 1,7,12x12x8,Adjustment,9,60606,30303,2024-05-08
+1F1234567890126005,Blue Dart,Ground,Zone 2,10,12x12x8,Additional Vat Charge,10.75,30303,10005,2024-03-03
+1F1234567890126006,DHL,Next Day Air,Zone 3,8,12x12x8,Additional weight charge,12,10005,60606,2023-12-28
+1F1234567890126007,Ecom Express,Ground,Zone 4,4,10x10x6,Additional Tax,6.5,60601,90210,2023-10-22
+1F1234567890126008,Delhivery,Ground,Zone 5,12,12x12x8,Adjustment,8.25,90210,30303,2023-08-19
+1F1234567890126009,DTDC,2Day,Zone 6,6,10x10x6,Additional weight charge,9.5,30303,60606,2024-06-12
+1F1234567890126010,Ekart Logistics,Ground,Zone 1,9,12x12x8,Additional Tax,10,60606,10005,2024-04-07
+1F12345ABCDE,Delhivery,Standard,3,4 lbs,12x12x8,Base Rate,$25.00,90210,10001,2023-07-04
+3F6789BCDEFG,DTDC,Express,2,5 lbs,12x10x6,Additional Tax,$30.00,30303,90001,2023-08-14
+5F98765HIJKL,Ekart Logistics,Priority,4,4 lbs,14x14x10,Additional Vat Charge,$28.50,60601,94102,2023-09-16
+7F65432MNOPQ,Ecom Express,Ground,1,6 lbs,16x16x12,Additional Weight Charge,$32.00,85001,75201,2023-10-07
+9F32109RSTUV,FedEx,Economy,5,4 lbs,12x8x6,Addl. Handling weight,$27.00,20001,30301,2023-11-04
+0F54321WXYZA,Gati,Expedited,3,4 lbs,12x10x8,Address Correction,$25.50,10005,60605,2023-12-09
+1F87654BCDAZ,Blue Dart,Standard,2,7 lbs,14x12x10,Adjustment,$35.00,90010,80202,2023-12-28
+2F76543POIUY,DHL,Priority,1,4 lbs,12x12x8,Admin. Fees,$26.75,75202,20001,2024-02-01
+3F43210LKJHG,Safe Express,Ground,4,4 lbs,12x12x8,Adult Signature,$29.25,60610,94105,2024-03-18
+4F10987NBVCX,Delhivery,Express,3,8 lbs,14x12x8,Adult Signature Required,$35.00,30302,10002,2024-04-15
+5F98765MNBVC,DTDC,Economy,5,4 lbs,12x12x8,Agri Processing Fee,$27.50,85005,20002,2024-05-20
+6F76543JHGFD,Ekart Logistics,Ground,2,4 lbs,12x12x8,AHS - Weight,$26.00,94101,90005,2024-06-07
+7F43210YTRWE,Ecom Express,Standard,3,4 lbs,12x12x8,Alternate Broker,$25.50,20002,30305,2023-07-14
+8F10987ZXCVB,FedEx,Express,4,5 lbs,12x12x8,Australia GST,$30.00,60605,85002,2023-08-27
+9F87654POIUY,Gati,Priority,1,4 lbs,12x12x8,Billing Adjustment for w/e 01/07/2023,$26.00,10001,60606,2023-09-21
+0F54321LKJHG,Blue Dart,Ground,5,4 lbs,12x12x8,Billing Adjustment for w/e 01/14/2023,$25.50,90005,20003,2023-10-17
+1F21098NBVCX,DHL,Express,3,4 lbs,12x12x8,Billing Adjustment for w/e 01/21/2023,$25.00,30303,90010,2023-11-11
+2F09876MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Billing Adjustment for w/e 01/28/2023,$25.00,94102,10005,2023-12-27
+3F98765ZXCVB,Delhivery,Standard,4,4 lbs,12x12x8,Billing Adjustment for w/e 02/04/2023,$25.00,75201,30301,2024-01-16
+4F65432POIUY,DTDC,Express,1,4 lbs,12x12x8,Billing Adjustment for w/e 02/11/2023,$25.00,20001,90001,2024-02-08
+5F32109LKJHG,Ekart Logistics,Priority,3,4 lbs,12x12x8,Billing Adjustment for w/e 02/18/2023,$25.00,60602,80201,2024-03-03
+6F09876MNBVC,Ecom Express,Ground,2,6 lbs,12x12x8,Billing Adjustment for w/e 02/25/2023,$30.00,85001,10002,2024-04-07
+7F76543ZXCVB,FedEx,Economy,5,4 lbs,12x12x8,Billing Adjustment for w/e 03/04/2023,$25.00,60606,30302,2024-05-16
+8F43210POIUY,Gati,Standard,1,4 lbs,12x12x8,Billing Adjustment for w/e 03/11/2023,$25.00,10005,90002,2024-06-12
+9F10987LKJHG,Blue Dart,Express,4,4 lbs,12x12x8,Billing Adjustment for w/e 03/18/2023,$25.00,90010,20001,2023-07-29
+0F98765MNBVC,DHL,Ground,3,4 lbs,12x12x8,Billing Adjustment for w/e 03/25/2023,$25.00,30303,94101,2023-08-19
+1F65432ZXCVB,Safe Express,Economy,2,5 lbs,12x12x8,Billing Adjustment for w/e 04/01/2023,$30.00,94102,60605,2023-09-04
+2F32109POIUY,Delhivery,Standard,4,4 lbs,12x12x8,Billing Adjustment for w/e 04/08/2023,$25.00,75202,30303,2023-10-09
+3F10987LKJHG,DTDC,Express,1,6 lbs,12x12x8,Billing Adjustment for w/e 04/15/2023,$30.00,20002,10001,2023-11-16
+4F87654MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Billing Adjustment for w/e 04/22/2023,$25.00,60601,85005,2023-12-22
+5F54321ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Billing Adjustment for w/e 04/29/2023,$25.00,85002,20003,2024-01-26
+6F21098POIUY,FedEx,Economy,5,4 lbs,12x12x8,Billing Adjustment for w/e 05/06/2023,$25.00,60605,30304,2024-02-01
+7F98765LKJHG,Gati,Standard,1,4 lbs,12x12x8,Billing Adjustment for w/e 05/13/2023,$25.00,10010,90005,2024-03-10
+8F76543MNBVC,Blue Dart,Express,4,4 lbs,12x12x8,Billing Adjustment for w/e 05/20/2023,$25.00,90001,60606,2024-04-15
+9F43210ZXCVB,DHL,Ground,3,5 lbs,12x12x8,Billing Adjustment for w/e 05/27/2023,$30.00,30301,94102,2024-05-23
+0F10987POIUY,Safe Express,Economy,2,4 lbs,12x12x8,Billing Adjustment for w/e 06/03/2023,$25.00,94105,10003,2024-06-27
+1F98765LKJHG,Delhivery,Standard,4,4 lbs,12x12x8,Billing Adjustment for w/e 06/10/2023,$25.00,75201,30303,2023-07-21
+2F76543MNBVC,DTDC,Express,1,4 lbs,12x12x8,British Columbia PST,$25.00,20001,10005,2023-08-14
+3F43210ZXCVB,Ekart Logistics,Priority,3,4 lbs,12x12x8,Broker Fee,$25.00,60602,85001,2023-09-14
+4F10987POIUY,Ecom Express,Ground,2,4 lbs,12x12x8,Brokerage Fees,$25.00,85005,20002,2023-10-17
+5F87654LKJHG,FedEx,Economy,5,6 lbs,12x12x8,Brokerage GST,$30.00,60606,30303,2023-11-06
+6F54321MNBVC,Gati,Standard,1,4 lbs,12x12x8,Ca British Columbia Pst,$25.00,10010,94101,2023-12-09
+7F21098ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Ca Customs Hst,$25.00,90001,30302,2024-01-01
+8F98765POIUY,DHL,Ground,3,4 lbs,12x12x8,Canada GST,$25.00,30301,20001,2024-02-14
+9F65432LKJHG,Safe Express,Economy,2,4 lbs,12x12x8,Complex Entry,$25.00,94105,85005,2024-03-28
+0F32109MNBVC,Delhivery,Standard,4,5 lbs,12x12x8,Cst Additional Duty,$30.00,75202,60602,2024-04-07
+1F09876ZXCVB,DTDC,Express,1,4 lbs,12x12x8,Customs Duty,$25.00,20003,30303,2024-05-10
+2F76543POIUY,Ekart Logistics,Priority,3,4 lbs,12x12x8,Customs Gst,$25.00,60601,10001,2024-06-17
+3F43210LKJHG,Ecom Express,Ground,2,4 lbs,12x12x8,Customs OT,$25.00,85005,94102,2023-07-04
+4F10987MNBVC,FedEx,Economy,5,6 lbs,12x12x8,Customs Warehouse,$30.00,60606,30301,2023-08-14
+5F87654ZXCVB,Gati,Standard,1,4 lbs,12x12x8,Cv Duty,$25.00,10010,20002,2023-09-16
+6F54321POIUY,Blue Dart,Express,4,4 lbs,12x12x8,DAS Comm,$25.00,90001,30302,2023-10-07
+7F21098LKJHG,DHL,Ground,3,4 lbs,12x12x8,DAS Extended Comm,$25.00,30301,94101,2023-11-04
+8F98765MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,DAS Extended Resi,$25.00,94105,10002,2023-12-09
+9F65432LKJHG,Delhivery,Standard,4,4 lbs,12x12x8,DAS Remote Comm,$25.00,75201,60605,2024-01-16
+0F32109ZXCVB,DTDC,Express,1,5 lbs,12x12x8,DAS Remote Resi,$30.00,20002,30303,2024-02-18
+1F10987POIUY,Ekart Logistics,Priority,3,4 lbs,12x12x8,DAS Resi,$25.00,60602,10003,2024-03-08
+2F76543LKJHG,Ecom Express,Ground,2,4 lbs,12x12x8,Declared Value,$25.00,85005,94102,2024-04-12
+3F43210MNBVC,FedEx,Economy,5,4 lbs,12x12x8,Declared Value Charge,$25.00,60606,30301,2024-05-18
+4F10987ZXCVB,Gati,Standard,1,4 lbs,12x12x8,Delivery Area Surcharge,$25.00,10010,20002,2024-06-22
+5F87654LKJHG,Blue Dart,Express,4,4 lbs,12x12x8,Delivery Area Surcharge - Extended,$25.00,90001,30303,2023-07-07
+6F54321POIUY,DHL,Ground,3,4 lbs,12x12x8,Delivery Area Surcharge - Extended Adjustment,$25.00,30301,94101,2023-08-09
+7F21098LKJHG,Safe Express,Economy,2,4 lbs,12x12x8,Delivery Area Surcharge Adjustment,$25.00,94105,10002,2023-09-11
+8F98765MNBVC,Delhivery,Standard,4,4 lbs,12x12x8,Delivery Confirmation Signature,$25.00,75201,60605,2023-10-17
+9F65432ZXCVB,DTDC,Express,1,4 lbs,12x12x8,Delivery Confirmation Signature - Commercial,$25.00,20002,30302,2023-11-14
+0F32109POIUY,Ekart Logistics,Priority,3,4 lbs,12x12x8,Delivery Confirmation Signature - Commercial Adjustment,$25.00,60602,10003,2023-12-19
+1F10987LKJHG,Ecom Express,Ground,2,4 lbs,12x12x8,Delivery Confirmation Signature Adjustment,$25.00,85005,94102,2024-01-01
+2F76543MNBVC,FedEx,Economy,5,4 lbs,12x12x8,Demand Surcharge-Addl Handling,$25.00,60606,30301,2024-02-16
+3F43210ZXCVB,Gati,Standard,1,4 lbs,12x12x8,Demand Surcharge-Com,$25.00,10010,20002,2024-03-08
+4F10987POIUY,Blue Dart,Express,4,4 lbs,12x12x8,Demand Surcharge-Large Package,$25.00,90001,30303,2024-04-12
+5F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Demand Surcharge-Resi,$25.00,30301,94101,2024-05-10
+6F43210MNBVC,Safe Express,Economy,2,5 lbs,12x12x8,Direct Signature,$30.00,94105,10003,2024-06-17
+7F10987ZXCVB,Delhivery,Standard,4,4 lbs,12x12x8,Disbursement Fee,$25.00,75201,60605,2023-07-04
+8F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Duty Amount,$25.00,20002,30302,2023-08-14
+9F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Duty and Tax Forwarding Surcharge,$25.00,60602,10003,2023-09-14
+0F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Early Surcharge,$25.00,85005,94102,2023-10-17
+1F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Electronic Entry for Formal Entry,$25.00,60606,30301,2023-11-06
+2F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Electronic Export Information Fee,$25.00,10010,20002,2023-12-09
+3F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Entry Prep Fee,$25.00,90001,30303,2024-01-01
+4F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Export Clearance Fee,$25.00,30301,94101,2024-02-14
+5F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Export F/C Reversal Penalty Fee,$25.00,94105,10003,2024-03-28
+6F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Extended Area P/U Surcharge-Origin,$30.00,75201,60605,2024-04-07
+7F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Extended Area Surcharge,$25.00,20002,30302,2024-05-10
+8F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Freight,$25.00,60602,10003,2024-06-17
+9F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Fuel Surcharge,$25.00,85005,94102,2023-07-04
+0F76543LKJHG,FedEx,Economy,5,6 lbs,12x12x8,Fuel Surcharge Adjustment,$30.00,60606,30301,2023-08-14
+1F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Alternate Address - Phone Request,$25.00,10010,20002,2023-09-16
+2F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Alternate Address,$25.00,90001,30303,2023-10-07
+3F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Any Third Attempt,$25.00,30301,94101,2023-11-04
+4F43210MNBVC,Safe Express,Economy,2,5 lbs,12x12x8,Future Day Pickup - Call Ahead,$30.00,94105,10003,2023-12-09
+5F10987ZXCVB,Delhivery,Standard,4,4 lbs,12x12x8,Future Day Pickup - Call Tag,$25.00,75201,60605,2024-01-16
+6F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - COD,$25.00,20002,30302,2024-02-18
+7F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - COD Fee,$25.00,60602,10003,2024-03-08
+8F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Delivery Area Surcharge,$25.00,85005,94102,2024-04-12
+9F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Delivery Confirmation Signature,$25.00,60606,30301,2024-05-18
+0F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Direct Signature,$25.00,10010,20002,2024-06-22
+1F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Disbursement Fee,$25.00,90001,30303,2024-07-03
+2F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Duty Amount,$25.00,30301,94101,2024-08-08
+3F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Duty and Tax Forwarding Surcharge,$25.00,94105,10003,2024-09-11
+4F10987ZXCVB,Delhivery,Standard,4,4 lbs,12x12x8,Future Day Pickup - Early Surcharge,$25.00,75201,60605,2024-10-17
+5F76543LKJHG,DTDC,Express,1,5 lbs,12x12x8,Future Day Pickup - Electronic Export Information Fee,$30.00,20002,30302,2024-11-18
+6F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Extended Area P/U Surcharge-Origin,$25.00,60602,10003,2024-12-07
+7F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Extended Area Surcharge,$25.00,85005,94102,2025-01-11
+8F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Fuel Surcharge,$25.00,60606,30301,2025-02-16
+9F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Hazardous Materials Surcharge,$25.00,10010,20002,2025-03-11
+0F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Inside Delivery,$25.00,90001,30303,2025-04-13
+1F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Large Package,$25.00,30301,94101,2025-05-09
+2F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Large Package Surcharge,$25.00,94105,10003,2025-06-13
+3F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Large Package Surcharge-Origin,$30.00,75201,60605,2025-07-19
+4F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Late Arrival,$25.00,20002,30302,2025-08-21
+5F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Limited Access Fee,$25.00,60602,10003,2025-09-06
+6F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Out of Area Delivery Surcharge,$25.00,85005,94102,2025-10-12
+7F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Oversize Charge,$25.00,60606,30301,2025-11-16
+8F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Overweight Charge,$25.00,10010,20002,2025-12-09
+9F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Prohibited Items,$25.00,90001,30303,2026-01-01
+0F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Remote Area Delivery Surcharge,$25.00,30301,94101,2026-02-14
+1F43210MNBVC,Safe Express,Economy,2,5 lbs,12x12x8,Future Day Pickup - Residential Fee,$30.00,94105,10003,2026-03-29
+2F10987ZXCVB,Delhivery,Standard,4,4 lbs,12x12x8,Future Day Pickup - Rural Area Surcharge,$25.00,75201,60605,2026-04-08
+3F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Saturday Delivery,$25.00,20002,30302,2026-05-11
+4F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Saturday Pickup,$25.00,60602,10003,2026-06-18
+5F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Signature Required,$25.00,85005,94102,2026-07-04
+6F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Signature Required Adjustment,$25.00,60606,30301,2026-08-09
+7F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Special Handling,$25.00,10010,20002,2026-09-11
+8F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Sunday Delivery,$25.00,90001,30303,2026-10-17
+9F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Sunday Pickup,$25.00,30301,94101,2026-11-18
+0F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Third Party Billing,$25.00,94105,10003,2026-12-07
+1F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Additional Handling,$30.00,75201,60605,2027-01-11
+2F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Non-Stackable,$25.00,20002,30302,2027-02-16
+3F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Over Max Len,$25.00,60602,10003,2027-03-11
+4F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Oversize,$25.00,85005,94102,2027-04-13
+5F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Oversize 1,$25.00,60606,30301,2027-05-19
+6F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Oversize 2,$25.00,10010,20002,2027-06-23
+7F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Remit Label,$25.00,90001,30303,2027-07-04
+8F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Residential,$25.00,30301,94101,2027-08-09
+9F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Residential Fee,$25.00,94105,10003,2027-09-11
+0F10987ZXCVB,Delhivery,Standard,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Saturday Delivery,$25.00,75201,60605,2027-10-17
+1F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Saturday Pickup,$25.00,20002,30302,2027-11-18
+2F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Signature Required,$25.00,60602,10003,2027-12-07
+3F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Special Handling,$25.00,85005,94102,2028-01-11
+4F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Sunday Delivery,$25.00,60606,30301,2028-02-16
+5F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Sunday Pickup,$25.00,10010,20002,2028-03-10
+6F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Third Party Billing,$25.00,90001,30303,2028-04-12
+7F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Zip Code Correction,$25.00,30301,94101,2028-05-08
+8F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Delivery Area Surcharge,$25.00,94105,10003,2028-06-12
+9F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Additional Handling - Inside Pickup,$30.00,75201,60605,2028-07-18
+0F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Remote Area Surcharge,$25.00,20002,30302,2028-08-20
+1F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Special Delivery,$25.00,60602,10003,2028-09-06
+2F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Special Pickup,$25.00,85005,94102,2028-10-12
+3F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Delivery,$25.00,60606,30301,2028-11-16
+4F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup,$25.00,10010,20002,2028-12-09
+5F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling,$25.00,90001,30303,2029-01-11
+6F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 1,$25.00,30301,94101,2029-02-14
+7F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 2,$25.00,94105,10003,2029-03-29
+8F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 3,$30.00,75201,60605,2029-04-08
+9F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 4,$25.00,20002,30302,2029-05-11
+0F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 5,$25.00,60602,10003,2029-06-18
+1F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 6,$25.00,85005,94102,2029-07-04
+2F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 7,$25.00,60606,30301,2029-08-09
+3F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 8,$25.00,10010,20002,2029-09-11
+4F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 9,$25.00,90001,30303,2029-10-17
+5F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 10,$25.00,30301,94101,2029-11-18
+6F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 11,$25.00,94105,10003,2029-12-07
+7F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 12,$30.00,75201,60605,2030-01-11
+8F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 13,$25.00,20002,30302,2030-02-16
+9F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 14,$25.00,60602,10003,2030-03-11
+0F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 15,$25.00,85005,94102,2030-04-13
+1F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 16,$25.00,60606,30301,2030-05-19
+2F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 17,$25.00,10010,20002,2030-06-23
+3F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 18,$25.00,90001,30303,2030-07-04
+4F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 19,$25.00,30301,94101,2030-08-09
+5F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 20,$25.00,94105,10003,2030-09-11
+6F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 21,$30.00,75201,60605,2030-10-17
+7F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 22,$25.00,20002,30302,2030-11-18
+8F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 23,$25.00,60602,10003,2030-12-07
+9F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 24,$25.00,85005,94102,2031-01-11
+0F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 25,$25.00,60606,30301,2031-02-16
+1F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 26,$25.00,10010,20002,2031-03-11
+2F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 27,$25.00,90001,30303,2031-04-13
+3F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 28,$25.00,30301,94101,2031-05-09
+4F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 29,$25.00,94105,10003,2031-06-13
+5F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 30,$30.00,75201,60605,2031-07-19
+6F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 31,$25.00,20002,30302,2031-08-21
+7F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 32,$25.00,60602,10003,2031-09-06
+8F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 33,$25.00,85005,94102,2031-10-12
+9F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 34,$25.00,60606,30301,2031-11-16
+0F43210MNBVC,Gati,Standard,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 35,$25.00,10010,20002,2031-12-09
+1F10987ZXCVB,Blue Dart,Express,4,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 36,$25.00,90001,30303,2032-01-11
+2F76543LKJHG,DHL,Ground,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 37,$25.00,30301,94101,2032-02-14
+3F43210MNBVC,Safe Express,Economy,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 38,$25.00,94105,10003,2032-03-28
+4F10987ZXCVB,Delhivery,Standard,4,5 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 39,$30.00,75201,60605,2032-04-07
+5F76543LKJHG,DTDC,Express,1,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 40,$25.00,20002,30302,2032-05-10
+6F43210MNBVC,Ekart Logistics,Priority,3,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 41,$25.00,60602,10003,2032-06-17
+7F10987ZXCVB,Ecom Express,Ground,2,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 42,$25.00,85005,94102,2032-07-03
+8F76543LKJHG,FedEx,Economy,5,4 lbs,12x12x8,Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 43,$25.00,60606,30301,2032-08-08
